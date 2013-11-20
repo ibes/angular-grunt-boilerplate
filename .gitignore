@@ -1,0 +1,18 @@
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+
+# Folders
+_obj
+_test
+.tmp
+bower_components
+node_modules
+
+# Architecture specific extensions/prefixes
+
+*.exe
+
+/dist
+.htpasswd
