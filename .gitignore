@@ -13,6 +13,7 @@ node_modules
 # Architecture specific extensions/prefixes
 
 *.exe
+.DS_Store
 
 /dist
 .htpasswd
